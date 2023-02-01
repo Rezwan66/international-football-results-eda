@@ -1,6 +1,7 @@
 # international-football-results-eda
 International Football Results- An Exploratory Data Analysis
 
+![world-cup-image](https://www.dfb.de/fileadmin/_processed_/201401/csm_wmpokal_gi_2720_e3ee390a5b.jpg)
 
 Analyzing International football results from 1872 to 2021
   - An up-to-date dataset of over 40,000 international football results
